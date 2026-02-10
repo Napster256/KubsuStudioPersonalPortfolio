@@ -1,5 +1,5 @@
 # KubsuStudioPersonalPortfolio
-
+![KubsuStudioPersonalPortfolio Preview](assets/img/tree.jpg)
 ## О проекте
 **KubsuStudioPersonalPortfolio** — это учебный личный проект портфолио студии, созданный в рамках учебных заданий по веб-разработке в Кубанском государственном университете. В проекте реализованы различные технологии, используемые в современной веб-разработке, включая HTML, CSS, JavaScript, jQuery, PHP и базы данных.
 
@@ -23,7 +23,7 @@
 ## Установка и запуск
 1. Склонируйте репозиторий:
    ```sh
-   git clone git@github.com:Napster128/KubsuStudioPersonalPortfolio.git
+   git clone git@github.com:Napster256/KubsuStudioPersonalPortfolio.git
    ```
 2. Разместите файлы проекта в корневой директории веб-сервера (например, **XAMPP** или **Apache**).
 3. Убедитесь, что **PHP** и **MySQL** запущены.
@@ -31,7 +31,7 @@
 5. Откройте `index.html` в браузере и наслаждайтесь работой проекта!
 
 ## Демо
-Проект доступен онлайн по следующей ссылке: [KubsuStudioPersonalPortfolio](https://napster128.github.io/KubsuStudioPersonalPortfolio/)
+Проект доступен онлайн по следующей ссылке: [KubsuStudioPersonalPortfolio](https://napster256.github.io/KubsuStudioPersonalPortfolio/)
 
 ## Контакты
 Если у вас есть вопросы или предложения, свяжитесь со мной через GitHub Issues.
