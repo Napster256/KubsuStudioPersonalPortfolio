@@ -23,7 +23,7 @@
 ## Установка и запуск
 1. Склонируйте репозиторий:
    ```sh
-   git clone git@github.com:Napster256/KubsuStudioPersonalPortfolio.git
+   git clone git@hostname:user/KubsuStudioPersonalPortfolio.git
    ```
 2. Разместите файлы проекта в корневой директории веб-сервера (например, **XAMPP** или **Apache**).
 3. Убедитесь, что **PHP** и **MySQL** запущены.
