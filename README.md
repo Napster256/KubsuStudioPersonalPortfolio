@@ -1,9 +1,13 @@
-# KubsuStudioPersonalPortfolio
+# KubsuStudio <br/> PersonalPortfolio
+
 ![KubsuStudioPersonalPortfolio Preview](assets/img/tree.jpg)
+
 ## О проекте
+
 **KubsuStudioPersonalPortfolio** — это учебный личный проект портфолио студии, созданный в рамках учебных заданий по веб-разработке в Кубанском государственном университете. В проекте реализованы различные технологии, используемые в современной веб-разработке, включая HTML, CSS, JavaScript, jQuery, PHP и базы данных.
 
 ## Функционал
+
 - Разметка и стилизация с использованием **HTML5** и **CSS3**
 - Динамическое поведение страниц на **JavaScript** и **jQuery**
 - Валидация форм на стороне клиента и сервера
@@ -12,6 +16,7 @@
 - Решение учебных заданий по веб-разработке
 
 ## Используемые технологии
+
 - **HTML5**
 - **CSS3** (включая Flexbox и Grid)
 - **JavaScript** (ES6+)
@@ -21,6 +26,7 @@
 - **AJAX** для обмена данными без перезагрузки страницы
 
 ## Установка и запуск
+
 1. Склонируйте репозиторий:
    ```sh
    git clone git@hostname:user/KubsuStudioPersonalPortfolio.git
@@ -31,9 +37,11 @@
 5. Откройте `index.html` в браузере и наслаждайтесь работой проекта!
 
 ## Демо
+
 Проект доступен онлайн по следующей ссылке: [KubsuStudioPersonalPortfolio](https://napster256.github.io/KubsuStudioPersonalPortfolio/)
 
 ## Контакты
+
 Если у вас есть вопросы или предложения, свяжитесь со мной через GitHub Issues.
 
 ---
